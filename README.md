@@ -2,6 +2,6 @@
 
 ![Analysis_images](June_temps.PNG)
 
-![Analysis_graphs](Decemeber_temps.PNG)
+![Analysis_images](Decemeber_temps.PNG)
 
-![Analysis_graphs](june_vs_dec.PNG)
+![Analysis_images](june_vs_dec.jpg)
